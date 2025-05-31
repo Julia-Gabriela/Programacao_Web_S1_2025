@@ -10,4 +10,4 @@ CREATE TABLE users (
 
 select * from users;
 
-INSERT INTO users (nome, email) VALUES ('maria', 'maria@vaicomasoutras.vai');
+insert into users values (2, 'vitu', 'vitu@vitu.vi');
